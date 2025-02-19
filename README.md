@@ -9,12 +9,13 @@ I am currently seeking a challenging position that leverages my technical expert
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Conducting a security audit| Log management, Security Archtecture  | LogRhythm, Azure|  
-| Analyze network structure and security|            | Log managment, Written Communication                                       |   Incident Report              | Using Linux commands to manage file permissions|                        |
-|  Applying filters to SQL queries      |              |                 |
- |  Identifying vulnerabilities for a small business|              |    |     |
- |  Documenting incidents with an incident handler’s journal |     |      |
- |  Importing and parsing a text file in a security-related scenario|      |       |
+| Conducting a security audit| Log management, Security Archtecture  | |  
+| Analyze network structure and security| Log managment, Written Communication  |   Incident Report 
+| Using Linux commands to manage file permissions|            Linux            |         | 
+|  Applying filters to SQL queries      |              |        SQL         |
+|  Identifying vulnerabilities for a small business|         Log management     |         |     |
+|  Documenting incidents with an incident handler’s journal |  Log management   |      |
+|  Importing and parsing a text file in a security-related scenario|  Python    |       |
 
         |
 |                 |                                       |                 |                 |
