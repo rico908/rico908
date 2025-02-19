@@ -2,15 +2,23 @@
 
 # Portfolio
 
-Hi, I'm Rico Williams and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+Hi, I'm Rico Williams, and this is my Cybersecurity Portfolio.
+I am currently seeking a challenging position that leverages my technical expertise in cybersecurity, network security, and risk management, while allowing me to contribute to the ever-evolving field of cybersecurity. With a strong background in Information Technology and Multimedia Communications, I am eager to join a forward-thinking organization where my analytical mindset, problem-solving skills, and dedication to safeguarding digital assets can make a meaningful impact.
 
 
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+| Conducting a security audit| Log management, Security Archtecture  | LogRhythm, Azure|  
+| Analyze network structure and security|            | Log managment, Written Communication                                       |   Incident Report              | Using Linux commands to manage file permissions|                        |
+|  Applying filters to SQL queries      |              |                 |
+ |  Identifying vulnerabilities for a small business|              |    |     |
+ |  Documenting incidents with an incident handler’s journal |     |      |
+ |  Importing and parsing a text file in a security-related scenario|      |       |
+
+        |
 |                 |                                       |                 |                 |
-|                 |                                       |                 |                 |
+
 
 
 # Certifications 
