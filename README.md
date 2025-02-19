@@ -1,6 +1,6 @@
 ## Hi I'm Rico Williams
 
-# Cyber Security Portfolio
+# Cybersecurity Portfolio
 
 Hi, I'm Rico Williams, and this is my Cybersecurity Portfolio.
 I am currently seeking a challenging position that leverages my technical expertise in cybersecurity, network security, and risk management, while allowing me to contribute to the ever-evolving field of cybersecurity. With a strong background in Information Technology and Multimedia Communications, I am eager to join a forward-thinking organization where my analytical mindset, problem-solving skills, and dedication to safeguarding digital assets can make a meaningful impact.
