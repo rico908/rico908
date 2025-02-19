@@ -15,7 +15,7 @@ I am currently seeking a challenging position that leverages my technical expert
 | Applying filters to SQL queries |  Programming  |        SQL         |           |
 | Identifying vulnerabilities for a small business|  Log management      |      |         |   Link   |
 | Documenting incidents with an incident handler’s journal |  Log management   |   Incident Journal   |  https://docs.google.com/document/d/16wb-0RqYcmy11QWDt4h_wdLxRAwHE5YL/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true     |
-| Importing and parsing a text file in a security-related scenario|  Programming   |  Python      |     https://docs.google.com/document/d/1XrguMc56mggAAYql94RdmVGs0jhemgL7/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true | 
+| Importing and parsing a text file in a security-related scenario|  Programming   |  Python      | [link]     https://docs.google.com/document/d/1XrguMc56mggAAYql94RdmVGs0jhemgL7/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true | 
 
 
 
