@@ -13,7 +13,7 @@ I am currently seeking a challenging position that leverages my technical expert
 | Analyze network structure and security| Log managment, Written Communication  |   Incident Report |[link](https://docs.google.com/document/d/1wMiq4A_0LsvZ7psm3Pe92A6Vt8fRDog0/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true)
 | Using Linux commands to manage file permissions|  Programming          |    Linux     |     [Link](https://docs.google.com/document/d/1uw5sNcWYYA1iAsq8O615J1fK4xAhlilC/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true)     |
 | Applying filters to SQL queries |  Programming  |        SQL         |   [link  ](https://docs.google.com/document/d/12a2mC6Aq2V2rtin2EtV70Bh0dct5bs73/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true)      |
-| Identifying vulnerabilities for a small business|  Log management      |      |         |   [Link](https://docs.google.com/document/d/1_ZK4fHpVLv0n5Ww3xga4IQPG2KJZOH_v/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true)   |
+| Identifying vulnerabilities for a small business|  Log management      |      |    [link](https://docs.google.com/document/d/1_ZK4fHpVLv0n5Ww3xga4IQPG2KJZOH_v/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true)   |
 | Documenting incidents with an incident handler’s journal |  Log management   |   Incident Journal   | [ link ](https://docs.google.com/document/d/16wb-0RqYcmy11QWDt4h_wdLxRAwHE5YL/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true)    |
 | Importing and parsing a text file in a security-related scenario|  Programming   |  Python      | [link](https://docs.google.com/document/d/1XrguMc56mggAAYql94RdmVGs0jhemgL7/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true)      | 
 
