@@ -9,16 +9,13 @@ I am currently seeking a challenging position that leverages my technical expert
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Conducting a security audit| Log management, Security Archtecture  |      |  Link |
-| Analyze network structure and security| Log managment, Written Communication  |   Incident Report 
-| Using Linux commands to manage file permissions|  Programming          |    Linux     |     Link     |
-|  Applying filters to SQL queries |  Programming  |        SQL         |
-|  Identifying vulnerabilities for a small business|  Log management      |      |         |   Link   |
-|  Documenting incidents with an incident handler’s journal |  Log management   |   Incident Journal   |  Link      |
-|  Importing and parsing a text file in a security-related scenario|  Programming   |  Python      |      Link | 
-
-        |
-|                 |                                       |                 |                 |
+| Conducting a security audit| Log management, |      |  https://docs.google.com/document/d/1eAZJutiUSyj2IO7_69C3vCZSNWegMPG3/edit?usp=drive_link&ouid=113025418551481697887&rtpof=true&sd=true|
+| Analyze network structure and security| Log managment, Written Communication  |   Incident Report |https://docs.google.com/document/d/1wMiq4A_0LsvZ7psm3Pe92A6Vt8fRDog0/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true
+| Using Linux commands to manage file permissions|  Programming          |    Linux     |     [Link](https://docs.google.com/document/d/1uw5sNcWYYA1iAsq8O615J1fK4xAhlilC/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true)     |
+| Applying filters to SQL queries |  Programming  |        SQL         |           |
+| Identifying vulnerabilities for a small business|  Log management      |      |         |   Link   |
+| Documenting incidents with an incident handler’s journal |  Log management   |   Incident Journal   |  https://docs.google.com/document/d/16wb-0RqYcmy11QWDt4h_wdLxRAwHE5YL/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true     |
+| Importing and parsing a text file in a security-related scenario|  Programming   |  Python      |     https://docs.google.com/document/d/1XrguMc56mggAAYql94RdmVGs0jhemgL7/edit?usp=sharing&ouid=113025418551481697887&rtpof=true&sd=true | 
 
 
 
